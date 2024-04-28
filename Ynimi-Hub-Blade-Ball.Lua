@@ -1,1 +1,1 @@
-return loadstring(game:HttpGet("https://raw.githubusercontent.com/YnimiHub/Get-Ynimi-Hub.Lua/main/Ynimi-Hub-Blade-Ball.Lua"))()
+return loadstring(game:HttpGet("https://raw.githubusercontent.com/YnimiHub/Scripts.Lua/main/Ynimi-Hub-Blade-Ball.Lua"))()
